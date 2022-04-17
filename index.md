@@ -1,3 +1,2 @@
-<h1>HI, I'M KAIDEN MASTEL.</h1>
-<br><br><br>
 <h2>ABOUT ME</h2>
+I am a programmer and a mathematician, currently enrolling at the University of Alberta, majoring in Software Engineering. 
