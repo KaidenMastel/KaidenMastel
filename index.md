@@ -23,3 +23,19 @@
 </p>
 <p>Some features will be addded for user convienience and to increase or decrease difficulty.</p>
 <h4>Demonstration</h4>
+
+<h2>MY EDUCATION HISTORY</h2>
+<h3>SECONDARY</h3>
+<p>95% average at Eston Composite, taking courses such as: Calculus, Computer Science, Chemistry, Physics, English, and History.</p>
+<h3>POST-SECONDARY</h3>
+<h4>SEMESTER 1 OF ENGINEERING</h4>
+<p>
+MATH 100 , A- , Univirsity calculus 1.<br>
+ENGG 130, A- , Physics of static bodies. Ex: moment of inertia and centroids.<br>
+CHEM 103, A- , Introductory chemistry for engineers.<br>
+PHYS 130, A- , Physics of waves and optics.<br>
+ENCMP 100, A+ , Computer programming using matlab.<br>
+</p>
+  
+
+
