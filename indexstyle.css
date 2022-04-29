@@ -1,14 +1,5 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: black;
-  margin: 50px;
-}
-
-h2 {
-  font-size: 2em;
-  margin: 10px;
-}
-
-p {
-  font-size: 1.1em;
+  margin: 20%
 }
