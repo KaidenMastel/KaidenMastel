@@ -37,6 +37,7 @@ PHYS 130, A- , Physics of waves and optics.<br>
 ENCMP 100, A+ , Computer programming using matlab.<br>
 </p>
 <h4>SEMESTER 2 OF ENGINEERING</h4>
+<p>
 MATH 101, A , University calculus 2.<br>
 ENGL 199, A- , English for engineers.<br>
 MATH 102, Not Graded, Linear algebra including but not limited to: basis matrix operations, planes and lines, vectorspaces, and eigenvectors and eigenvalues.<br>
