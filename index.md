@@ -6,8 +6,8 @@
 <h2>MY PROJECTS</h2>
 <h3>CIRCLING CIRCLES</h3>
 <p>For my first semester of my software engineering program, I elected to participate in an optional programming contest, which required making a game using Matlab. I decided to make a game where:
-1. The Players goal is to move forward as long as possible, with a background that scrolls with the player.
-2. The Player has a constant speed, with a button press moving the player in the direction of their "pointer".
-3. Infinitely generating obstacles that cause game over when touched.
+1. The Players goal is to move forward as long as possible, with a background that scrolls with the player.<br>
+2. The Player has a constant speed, with a button press moving the player in the direction of their "pointer".<br>
+3. Infinitely generating obstacles that cause game over when touched.<br>
 </p>
 <h4>Demonstration</h4>
