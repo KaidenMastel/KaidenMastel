@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="indexstyle.css">
 <title>Kaiden's Page</title>
 <h1>HI, I'M KAIDEN MASTEL</h1>
 <h2>ABOUT MYSELF</h2>
