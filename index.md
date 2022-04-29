@@ -13,7 +13,7 @@
 </p>
 <h4>Demonstration</h4>
 
-<h3>PlunderPeice</h3>
+<h3>PLUNDERPIECE</h3>
 <p>PlunderPiece is the game I am currently in the process of designing and programming. This is a game where:</p>
 <p>
 1. The Players goal is to collect all the coins on a chess board using the minimum amount of moves.<br>
