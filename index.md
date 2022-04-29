@@ -14,9 +14,8 @@
 3. Infinitely generating obstacles that cause game over when touched.<br>
 </p>
 <h4>Demonstration</h4>
-<video width="320" height="240" controls>
-  <source src=”https://youtu.be/Hv1NL6Pl3_s” type=video/mp4>
-</video>
+  
+<iframe width="700" height="397" src="https://www.youtube.com/embed/Hv1NL6Pl3_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3>PLUNDERPIECE</h3>
 <p>PlunderPiece is the game I am currently in the process of designing and programming. This is a game where:</p>
