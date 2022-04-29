@@ -5,3 +5,4 @@
 
 <h2>MY PROJECTS</h2>
 <h3>CIRCLING CIRCLES</h3>
+<p>For my first semester of my software engineering program, I elected to participate in an optional programming contest, which required making a game using Matlab. I decided to make a game where</p>
