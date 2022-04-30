@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <link rel="stylesheet" href="indexstyle.css">
 <title>Kaiden's Page</title>
 <body>
@@ -49,3 +51,4 @@ EN PHYS 131, Not Graded, Kinematics.<br>
 CHEM 105, Not Graded, Introductory chemistry for engineers 2.<br>
 </p>
 </body>
+</html>
