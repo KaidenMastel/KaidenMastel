@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <link rel="stylesheet" href="indexstyle.css">
   <title>Kaiden's Page</title>
