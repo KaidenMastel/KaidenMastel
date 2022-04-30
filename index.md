@@ -18,7 +18,7 @@
     </p>
     <p>Some features will be addded for user convienience and to increase or decrease difficulty.</p>
     <h4>Demonstration</h4>
-    <iframe src="https://www.youtube.com/embed/JvClwOCfoA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="680px" src="https://www.youtube.com/embed/JvClwOCfoA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <h3>CIRCLING CIRCLES</h3>
     <p>For my first semester of my software engineering program, I elected to participate in an optional programming contest, which required making a game using Matlab. I decided to make a game where:</p>
     <p>
@@ -27,7 +27,7 @@
       3. Infinitely generating obstacles that cause game over when touched.<br>
     </p>
     <h4>Demonstration</h4>
-    <iframe src="https://www.youtube.com/embed/Hv1NL6Pl3_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="680px" src="https://www.youtube.com/embed/Hv1NL6Pl3_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <h2>MY EDUCATION HISTORY</h2>
     <h3>POST-SECONDARY</h3>
     <h4>SEMESTER 1 OF ENGINEERING</h4>
