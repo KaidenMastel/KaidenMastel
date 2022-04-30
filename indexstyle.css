@@ -5,6 +5,7 @@ p {
 body {
   font-family: 'Roboto', sans-serif;
   color: black;
+  background-image: url("https://raw.githubusercontent.com/KaidenMastel/KaidenMastel/main/images/pattern.jpg");
   background-color: #D5D5D5;
   margin-top: 10px;
   margin-bottom: 10px;
