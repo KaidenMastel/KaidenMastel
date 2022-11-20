@@ -28,25 +28,4 @@
     </p>
     <h4>Demonstration</h4>
     <iframe width="100%" height="75%" src="https://www.youtube.com/embed/Hv1NL6Pl3_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <h2>MY EDUCATION HISTORY</h2>
-    <h3>POST-SECONDARY</h3>
-    <h4>SEMESTER 1 OF ENGINEERING</h4>
-    <p>
-      MATH 100 , A- , University calculus 1.<br>
-      ENGG 130, A- , Physics of static bodies. Ex: moment of inertia and centroids.<br>
-      CHEM 103, A- , Introductory chemistry for engineers.<br>
-      PHYS 130, A- , Physics of waves and optics.<br>
-      ENCMP 100, A+ , Computer programming using matlab.<br>
-    </p>
-    <h4>SEMESTER 2 OF ENGINEERING</h4>
-    <p>
-      MATH 101, A , University calculus 2.<br>
-      ENGL 199, A- , English for engineers.<br>
-      MATH 102, Not Graded, Linear algebra including but not limited to: basis matrix operations, planes and lines, vectorspaces, and eigenvectors and eigenvalues.<br>
-      EN PHYS 131, Not Graded, Kinematics.<br>
-      CHEM 105, Not Graded, Introductory chemistry for engineers 2.<br>
-    </p>
-    <h3>SECONDARY</h3>
-    <p>95% average at Eston Composite, taking courses such as: Calculus, Computer Science, Chemistry, Physics, English, and History.</p>
-  </body>
 </html>
