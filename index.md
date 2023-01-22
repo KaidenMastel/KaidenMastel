@@ -10,9 +10,8 @@
   <body>
     <nav id="navbar" class="navbar">
       <ul class="nav-list">
-        <li>About</li>
-        <li>Projects</li>
-        <li>Contact</li>
+        <li><a href="#welcome-section"><button>About</button></a></li>
+        <li><a href="#projects"><button>Projects</button></a></li>
       </ul>
     </nav>    
     <section id="welcome-section" class="welcome">
@@ -31,6 +30,11 @@
     </section> 
     <section id="contact" class="contact">
       <br>
+      <a id="profile-link" target="_blank" href="https://github.com/KaidenMastel">Github</a>
+      <a href="mailto:kfmastel@ualberta.ca">Email</a>      
+    </section>
+  </body>
+</html>
       <a href="https://github.com/KaidenMastel">Github</a>
       <a href="mailto:kfmastel@ualberta.ca">Email</a>      
     </section>
