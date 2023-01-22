@@ -35,8 +35,3 @@
     </section>
   </body>
 </html>
-      <a href="https://github.com/KaidenMastel">Github</a>
-      <a href="mailto:kfmastel@ualberta.ca">Email</a>      
-    </section>
-  </body>
-</html>
