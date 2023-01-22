@@ -29,7 +29,7 @@
         <iframe  src="https://www.youtube.com/embed/Hv1NL6Pl3_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
     </section> 
-    <section id="contact" class="contact"?>
+    <section id="contact" class="contact">
       <br>
       <a href="https://github.com/KaidenMastel">Github</a>
       <a href="mailto:kfmastel@ualberta.ca">Email</a>      
