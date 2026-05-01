@@ -1,18 +1,22 @@
 body {
     margin: 0;
     font-size: larger;
+    font-family: 'Poiret One', sans-serif;
+    background-color: #020617;
 }
+
 nav {
     position: fixed;
     height: 70px;
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #333; /* Change this to your desired background color */
-    color: white; /* Change this to your desired text color */
+    background-color: #020617;
+    color: white;
     z-index: 1;
     text-align: center;
     white-space: nowrap;
+    border-bottom: 1px solid #1f2933;
 }
 
 ul {
@@ -47,7 +51,12 @@ li {
 
 li a {
     text-decoration: none;
-    color: white;
+    color: #e5e7eb;
+    transition: 0.2s;
+}
+
+li a:hover {
+    color: #38bdf8;
 }
 
 #navtitle {
@@ -70,8 +79,8 @@ img {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.47); /* Adjust the RGBA values and alpha (0.5) as needed */
-    pointer-events: none; /* Allows clicks to pass through the overlay to the elements below */
+    background-color: rgba(0, 0, 0, 0.47);
+    pointer-events: none;
 }
 
 .blackbg {
@@ -92,15 +101,16 @@ img {
 
 @media (max-width: 700px) {
     #me {
-      height: auto; /* Set height to auto for small screens to prevent clipping */
+      height: auto;
     }
-  }
+}
   
 @media (min-width: 701px) {
     #me {
-        height: 98vh; /* Set height to 92vh for larger screens */
+        height: 98vh;
     }
 }
+
 @media (max-width: 400px) {
     body {
         font-size: small;

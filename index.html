@@ -18,11 +18,6 @@
                     <li style="margin-right: 16px;"><a href="#">About</a></li>
                     <li><a href="#PP">Projects</a></li>
                 </div>
-                <!-- 
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Contact</a></li>
-                -->
             </ul>
         </nav>
     </header>
@@ -38,7 +33,54 @@
                 <p>Software Developer</p>
             </div>
         </section>
-        <section id="PP" style="background-color: #94fec3;">
+
+        <!-- CURRENT WORK -->
+        <section style="background-color: #111827; color: white; text-align: center; padding: 50px 20px;">
+            <h1 style="margin-bottom: 25px;">Current Work</h1>
+            
+            <div style="max-width: 800px; margin: auto;">
+                <div style="background-color: #1f2933; padding: 20px; border-radius: 6px;">
+                    Junior Software Developer for the Civil/Environmental Engineering Department at UofA
+                </div>
+                <br>
+                <div style="background-color: #1f2933; padding: 20px; margin-bottom: 15px; border-radius: 6px;">
+                    AI segmentation of SLO eye floaters with PulseMedica for CMPUT 469 - AI Capstone
+                </div>
+            </div>
+        </section>
+
+        <!-- SHIPPED PROJECTS HEADER -->
+        <section style="background-color: #000000; color: #ffffff; text-align: center; padding: 12px;">
+            <h1>Shipped Projects</h1>
+        </section>
+
+        <section id="ppg" style="background-color: #1e40af; padding: 50px 0;">
+            <h1 style="text-align: center;">The Great Periodic Path Hunt</h1>
+            <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; margin: 20px;">
+                
+                <!-- VIDEO LEFT -->
+                <div style="width: 50%; min-width: 300px; margin-bottom: 20px;">
+                    <iframe src="https://drive.google.com/file/d/1FQ5to8YluxZfy8RcSs6W0ZdkMJNkl2tC/preview" width="100%" height="315" style="border:none;"></iframe>                
+                </div>
+
+                <!-- TEXT RIGHT -->
+                <div style="width: 45%; min-width: 250px; display: flex; flex-direction: column; justify-content: center; text-align: center; height: 315px;">
+                    <p>The Great Periodic Path Hunt is a research initiative in computational geometry led by Professor George Tokarsky.</p>
+                    <p>I was contracted to design and build the website to manage collaboration between users.</p>
+                    <p>The platform includes a login system allowing users to select and complete their own sections of the problem, along with a leaderboard to track contributions.</p>
+                </div>
+
+            </div>
+
+            <!-- LINKS BELOW FLEX ROW -->
+            <div style="text-align: center; margin-top: 20px;">
+                <a href="https://thegreatperiodicpathhuntgame.vercel.app/" style="margin-right: 15px;">View Live</a>
+                <a href="https://github.com/gwtokarsky/BilliardWebsite">View on Github</a>
+            </div>
+        </section>
+
+        <!-- PLUNDERPIECE -->
+        <section id="PP" style="background-color: #0f766e;">
             <h1 style="text-align: center;">PlunderPiece</h1>
             <div style="display: flex; justify-content: space-between; align-items: center; margin: 0 20px;">
                 <div style="width: 40%; margin: auto; text-align: center;">
@@ -49,10 +91,62 @@
                 </div>
             </div>
             <div style="text-align: center; margin: 20px;">
-                Coming February 29 to Steam!
+                <a href="https://store.steampowered.com/app/2798260/PlunderPiece/">View on Steam</a>
             </div>
-        </section>  
-        <section id="bci" style="background-color: #d34f79">
+        </section> 
+
+        <!-- ACTIONKIN SCALE -->
+        <section id="actionkin" style="background-color: #047857; padding: 50px 0;">
+            <h1 style="text-align: center;">Actionkin Scale</h1>
+            <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; margin: 20px;">
+                
+                <!-- VIDEO/IMAGE LEFT PLACEHOLDER -->
+                <div style="width: 50%; min-width: 300px; margin-bottom: 20px; display: flex; justify-content: center; align-items: center;">
+                    <img src="actionkin_placeholder.png" alt="Actionkin Scale Screenshot" style="max-width: 100%; border-radius: 8px;">
+                </div>
+
+                <!-- TEXT RIGHT -->
+                <div style="width: 45%; min-width: 250px; display: flex; flex-direction: column; justify-content: center; text-align: center; height: 315px;">
+                    <p>Scale is a web-based project management platform designed for the client ActionKin to streamline team collaboration, task tracking, and progress monitoring.</p>
+                    <p>I worked primarily on the database using Drizzle ORM, achieving close to 100% code coverage with Jest for integration tests and implementing Selenium UI tests to ensure end-to-end reliability.</p>
+                    <p>Completed as a CMPUT 401 - Software Process and Product Management - Capstone Project</p>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- CLASS PROJECTS HEADER -->
+        <section style="background-color: #000000; color: #ffffff; text-align: center; padding: 12px;">
+            <h1>Class Projects & Hackathons</h1>
+        </section>
+
+        <!-- SOCIAL DISTRIBUTION -->
+        <section id="socialdistribution" style="background-color: #b91c1c; padding: 50px 0;">
+            <h1 style="text-align: center;">Social Distribution</h1>
+            <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; margin: 20px;">
+                
+                <!-- VIDEO LEFT -->
+                <div style="width: 50%; min-width: 300px; margin-bottom: 20px; display: flex; justify-content: center; align-items: center;">
+                    <iframe width="100%" height="315" src="https://drive.google.com/file/d/1gPPvWXiV-MRt5RNuSIEoy5G2eH-PXHZY/preview" frameborder="0" allowfullscreen></iframe>
+                </div>
+
+                <!-- TEXT RIGHT -->
+                <div style="width: 45%; min-width: 250px; display: flex; flex-direction: column; justify-content: center; text-align: center; height: 315px;">
+                    <p>Social Distribution is a federated social networking website for CMPUT 404 - Web Development.</p>
+                    <p>This website is a "Node" in the federation, allowing users to follow others on nodes developed by other teams.</p>
+                    <p>Node connections were implemented using basic HTML authentication and Heroku deployments (all Heroku instances have since been taken down due to costs).</p>
+                </div>
+
+            </div>
+
+            <!-- LINKS BELOW FLEX ROW -->
+            <div style="text-align: center; margin-top: 20px;">
+                <span>Code private due to course policy</span>
+            </div>
+        </section>
+
+        <!-- BCI BEATS -->
+        <section id="bci" style="background-color: #7f1d1d;">
             <h1 style="text-align: center;">BCI Beats</h1>
             <div style="display: flex; justify-content: space-between; align-items: center; margin: 0 20px;">
                 <div style="width: 50%;">
@@ -60,40 +154,33 @@
                 </div>
         
                 <div style="width: 40%; margin: auto; text-align: center;">
-                    <p style="margin-left: 20px;">BCI (Brain Computer Interface) Beats is a music generation app made with unity, C#, and Python, using the BCI Essentials library. Allows children with restricted motor functions to make music generation choices.</p>
+                    <p style="margin-left: 20px;">BCI (Brain Computer Interface) Beats is a music generation app made with Unity, C#, and Python, using the BCI Essentials library. Allows children with restricted motor functions to make music generation choices using BCI headgear.</p>
                 </div> 
             </div>
             <div style="text-align: center; margin: 20px;">
-                <a href="https://github.com/BCI-Beats-NatHacks/BCI-Beats">Github</a>
+                <a href="https://github.com/BCI-Beats-NatHacks/BCI-Beats">View on Github</a>
             </div>
         </section>
-        <section id="bb" style="background-color: #d5a745;">
+
+        <!-- BELONGINGS BUDDY -->
+        <section id="bb" style="background-color: #a16207;">
             <h1 style="text-align: center;">Belongings Buddy</h1>
             <div style="display: flex; justify-content: space-between; align-items: center; margin: 0 20px;">
                 <div style="width: 50%;">
-                    <p>Belongings buddy is a list based personal belongings tracker, made for CMPUT 301 - Intro to Software Engineering at UofA. This video demonstrates my main contributions,.</p>
+                    <p>Belongings Buddy is a list-based personal belongings tracker, made for CMPUT 301 - Intro to Software Engineering at UofA. This video demonstrates my main contributions on implementing barcode scanning and image handling features.</p>
                 </div>
                 <div style="width: 50%;">
                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/NAmPWfSdL1k" frameborder="0" allowfullscreen></iframe>
                 </div>
             </div>
             <div style="text-align: center; margin: 20px;">
-                <a href="https://github.com/CMPUT301F23T14/BelongingsBuddy">Github</a>
+                <a href="https://github.com/CMPUT301F23T14/BelongingsBuddy">View on Github</a>
             </div>
         </section>
-        <!--
-        <section id="my-projects" class="grey-bluebg">
-            <h1>Web projects</h1>
-            <div class="project-container flex"> 
-                <div class="project">
-                  <img src="quotemachine.PNG"></section>
-                </div>
-            </div>
-        </section>
-        -->
     </main>
+
     <footer>
-        <p>&copy; 2023 Kaiden Mastel</p>
+        <p>&copy; 2026 Kaiden Mastel</p>
     </footer>
 </body>
 </html>
